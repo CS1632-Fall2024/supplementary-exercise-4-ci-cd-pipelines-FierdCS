@@ -57,7 +57,6 @@ jobs:
 
     permissions:
       contents: write
-      metadata: write
 
     steps:
       - name: Restore cached build
